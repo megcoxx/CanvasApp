@@ -1,0 +1,14 @@
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/bin/Debug/net8.0/CanvasApp
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/bin/Debug/net8.0/CanvasApp.deps.json
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/bin/Debug/net8.0/CanvasApp.runtimeconfig.json
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/bin/Debug/net8.0/CanvasApp.dll
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/bin/Debug/net8.0/CanvasApp.pdb
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/Debug/net8.0/CanvasApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/Debug/net8.0/CanvasApp.AssemblyInfoInputs.cache
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/Debug/net8.0/CanvasApp.AssemblyInfo.cs
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/Debug/net8.0/CanvasApp.csproj.CoreCompileInputs.cache
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/Debug/net8.0/CanvasApp.dll
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/Debug/net8.0/refint/CanvasApp.dll
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/Debug/net8.0/CanvasApp.pdb
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/Debug/net8.0/CanvasApp.genruntimeconfig.cache
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/Debug/net8.0/ref/CanvasApp.dll
