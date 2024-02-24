@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CanvasApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c80c3034d4df04b6ad18f6ac5a288824d743ea29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52788a3a6df59686ef31cb9dd9c76122e9583fab")]
 [assembly: System.Reflection.AssemblyProductAttribute("CanvasApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CanvasApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
