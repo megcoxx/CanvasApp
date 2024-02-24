@@ -2,16 +2,14 @@ namespace CanvasApp.Models
 {
     public class Person
     {
-        public string Name { get; set; }
+        public Guid Id { get; set; }
+        public string? Name { get; set; }
 
         public string? Classification { get; set; }
 
         public string? Grade { get; set; }
 
-        Person()
-        {
-            Name = "N/A";
-        }
+        public Person() { }
         public Person(string name, string? classlvl)
         {
             Name = name;

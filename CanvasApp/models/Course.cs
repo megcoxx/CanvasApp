@@ -7,6 +7,10 @@ namespace CanvasApp.Models
 
         public string? Name { get; set; }
 
+        public Guid Id {get;}
+
+        public Guid StudentId {get; set;}
+
         public string? Description { get; set; }
 
         public List<Person> Roster;
