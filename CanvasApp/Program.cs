@@ -1,4 +1,9 @@
 ﻿using CanvasApp.Models;
+using System;
+using System.Net.WebSockets;
+using System.Security.Cryptography.X509Certificates;
+using CanvasApp.helpers;
+using CanvasApp.Services;
 
 namespace CanvasApp
 {
@@ -9,7 +14,7 @@ namespace CanvasApp
             bool stillOn = true;
             int optionPicked;
             //create ListStudents database of all students
-            List<Person> ListStudents = new();
+            List<Person> ListStudents = [];
             //create ListCourses database of all courses
             List<Course> ListCourses = new();
             while (stillOn.Equals(true))
@@ -32,19 +37,21 @@ namespace CanvasApp
                 Console.WriteLine("Please choose your option: ");
                 optionPicked = Int32.Parse(Console.ReadLine());
 
+                var studentHlpr = new PersonHelper();
+                var courseHlpr = new CourseHelper();
                 switch (optionPicked)
                 {
                     case 1:
                         AddCourse(ListCourses);
                         break;
                     case 2:
-                        AddStudent(ListStudents);
+                        studentHlpr.AddStudent();
                         break;
                     case 3:
                         AddStudenttoCourse(ListStudents, ListCourses);
                         break;
                     case 4:
-                        RemoveStudentFromCourse(ListCourses);
+                        studentHlpr.DeletePerson();
                         break;
                     case 5:
                         WriteCourses(ListCourses);
@@ -65,7 +72,7 @@ namespace CanvasApp
                         UpdateCourseInfo(ListCourses);
                         break;
                     case 11:
-                        UpdateStudentInfo(ListStudents);
+                        studentHlpr.UpdateInfo();
                         break;
                     case 12:
                         CreateAddAssignment(ListCourses);
@@ -288,17 +295,17 @@ namespace CanvasApp
             }
         }
         // Update a student’s information        
-        public static void UpdateStudentInfo(List<Person> studentList)
-        {
-            Console.WriteLine("Please enter the name of the student you would like to update: ");
-            String studentName = Console.ReadLine();
-            foreach (var item in studentList)
-            {
-                if (item.Name.Equals(studentName))
-                {
-                    item.UpdateInfo();
-                }
-            }
-        }
+        // public static void UpdateStudentInfo(List<Person> studentList)
+        // {
+        //     Console.WriteLine("Please enter the name of the student you would like to update: ");
+        //     String studentName = Console.ReadLine();
+        //     foreach (var item in studentList)
+        //     {
+        //         if (item.Name.Equals(studentName))
+        //         {
+        //             item.UpdateInfo();
+        //         }
+        //     }
+        // }
     }
 }
