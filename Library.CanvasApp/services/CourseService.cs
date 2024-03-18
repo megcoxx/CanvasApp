@@ -5,7 +5,7 @@ namespace CanvasApp.Services
 
     public class CourseService
     {
-        private static CourseService instance;
+        private static CourseService? instance;
         public static CourseService Current
         {
             get

@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "CanvasApp/1.0.0": {
+        "dependencies": {
+          "Library.CanvasApp": "1.0.0"
+        },
         "runtime": {
           "CanvasApp.dll": {}
+        }
+      },
+      "Library.CanvasApp/1.0.0": {
+        "runtime": {
+          "Library.CanvasApp.dll": {}
         }
       }
     }
   },
   "libraries": {
     "CanvasApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library.CanvasApp/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -13,3 +13,7 @@
 /Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/Debug/net8.0/CanvasApp.genruntimeconfig.cache
 /Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/Debug/net8.0/ref/CanvasApp.dll
 /Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/Debug/net8.0/CanvasApp.sourcelink.json
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/bin/Debug/net8.0/Library.CanvasApp.dll
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/bin/Debug/net8.0/Library.CanvasApp.pdb
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/Debug/net8.0/CanvasApp.csproj.AssemblyReference.cache
+/Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/Debug/net8.0/CanvasApp.csproj.Up2Date

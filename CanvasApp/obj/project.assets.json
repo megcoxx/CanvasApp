@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Library.CanvasApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Library.CanvasApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library.CanvasApp.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Library.CanvasApp/1.0.0": {
+      "type": "project",
+      "path": "../Library.CanvasApp/Library.CanvasApp.csproj",
+      "msbuildProject": "../Library.CanvasApp/Library.CanvasApp.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Library.CanvasApp >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/meghancox/.nuget/packages/": {}
@@ -26,12 +45,17 @@
         "net8.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/Library.CanvasApp.csproj": {
+              "projectPath": "/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/Library.CanvasApp.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

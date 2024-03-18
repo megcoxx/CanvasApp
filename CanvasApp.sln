@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasApp", "CanvasApp\Canv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.CanvasApp", "Library.CanvasApp\Library.CanvasApp.csproj", "{12D8AED3-FDA8-452D-B84C-740E311C4C4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAUI.CanvasApp", "MAUI.CanvasApp\MAUI.CanvasApp.csproj", "{36BABC82-3D1D-4573-894C-04960A33164A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{12D8AED3-FDA8-452D-B84C-740E311C4C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12D8AED3-FDA8-452D-B84C-740E311C4C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12D8AED3-FDA8-452D-B84C-740E311C4C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36BABC82-3D1D-4573-894C-04960A33164A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BABC82-3D1D-4573-894C-04960A33164A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BABC82-3D1D-4573-894C-04960A33164A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BABC82-3D1D-4573-894C-04960A33164A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

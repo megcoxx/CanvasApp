@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CanvasApp.helpers.old
+namespace CanvasApp.helpers
 {
     public class PersonHelper
     {
