@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CanvasApp.helpers
+namespace CanvasApp.helpers.old
 {
     public class CourseHelper
     {

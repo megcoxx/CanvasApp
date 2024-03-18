@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/meghancox/COP 4870/CanvasApp/CanvasApp/CanvasApp.csproj": {}
+    "/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/Library.CanvasApp.csproj": {}
   },
   "projects": {
-    "/Users/meghancox/COP 4870/CanvasApp/CanvasApp/CanvasApp.csproj": {
+    "/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/Library.CanvasApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/meghancox/COP 4870/CanvasApp/CanvasApp/CanvasApp.csproj",
-        "projectName": "CanvasApp",
-        "projectPath": "/Users/meghancox/COP 4870/CanvasApp/CanvasApp/CanvasApp.csproj",
+        "projectUniqueName": "/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/Library.CanvasApp.csproj",
+        "projectName": "Library.CanvasApp",
+        "projectPath": "/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/Library.CanvasApp.csproj",
         "packagesPath": "/Users/meghancox/.nuget/packages/",
-        "outputPath": "/Users/meghancox/COP 4870/CanvasApp/CanvasApp/obj/",
+        "outputPath": "/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/meghancox/.nuget/NuGet/NuGet.Config"
