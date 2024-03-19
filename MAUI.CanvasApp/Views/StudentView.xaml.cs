@@ -6,4 +6,8 @@ public partial class StudentView : ContentPage
 	{
 		InitializeComponent();
 	}
+
+	private void BackToHomeClicked(object sender, EventArgs e){
+		Shell.Current.GoToAsync("//MainPage");
+	}
 }
