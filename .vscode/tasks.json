@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "msbuild",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "clean",
+			"label": "Clean: solution",
+			"detail": "Clean the CanvasApp.sln solution using dotnet clean"
+		}
+	]
+}
