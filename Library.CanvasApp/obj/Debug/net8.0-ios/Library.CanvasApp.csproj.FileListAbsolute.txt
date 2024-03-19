@@ -1,0 +1,8 @@
+/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/obj/Debug/net8.0-ios/actool/_PartialAppManifest.items
+/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/obj/Debug/net8.0-ios/actool/_BundleResourceWithLogicalName.items
+/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/obj/Debug/net8.0-ios/actool/_ProcessedImageAssetsPath.items
+/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/obj/Debug/net8.0-ios/coremlc/_PartialAppManifest.items
+/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/obj/Debug/net8.0-ios/coremlc/_BundleResourceWithLogicalName.items
+/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/obj/Debug/net8.0-ios/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/obj/Debug/net8.0-ios/_ProcessedBundleResourcesPath.items
+/Users/meghancox/COP 4870/CanvasApp/Library.CanvasApp/obj/Debug/net8.0-ios/_ProcessedContentPath.items

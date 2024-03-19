@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/meghancox/COP 4870/CanvasApp/MAUI.CanvasApp/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/meghancox/COP 4870/CanvasApp/MAUI.CanvasApp/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/MAUI.CanvasApp.app

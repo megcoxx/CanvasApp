@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/meghancox/COP 4870/CanvasApp/MAUI.CanvasApp/bin/Debug/net8.0-ios/iossimulator-arm64/MAUI.CanvasApp.app/libSystem.Globalization.Native.dylib
