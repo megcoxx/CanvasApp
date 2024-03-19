@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MAUI.CanvasApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+47e685b48187cac35229ae3d799728731e2fa4f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+471e12dd1ecbb543ccab63222f26e39cf005c081")]
 [assembly: System.Reflection.AssemblyProductAttribute("MAUI.CanvasApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MAUI.CanvasApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

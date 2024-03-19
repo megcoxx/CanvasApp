@@ -2,19 +2,19 @@
 
 public partial class MainPage : ContentPage
 {
-	int count = 0;
-
 	public MainPage()
 	{
 		InitializeComponent();
 	}
 
-	private void InstructorViewClicked(object sender, EventArgs e){
-
+	private void InstructorViewClicked(object sender, EventArgs e)
+	{
+		
 	}
 
-	private void StudentViewClicked(object sender, EventArgs e){
-		
+	private void StudentViewClicked(object sender, EventArgs e)
+	{
+
 	}
 
 	// private void OnCounterClicked(object sender, EventArgs e)
